@@ -1,0 +1,2 @@
+# Data-Imputation-and-Feature-Selection-in-the-World-Happiness-Report
+This project analyzes the World Happiness Report dataset using advanced data preprocessing techniques to enhance data quality and predictive modeling. The primary goals are to handle missing data effectively and select the most relevant features for modeling, thereby improving the accuracy and interpretability of predictive models.
